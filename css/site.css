@@ -1,0 +1,8 @@
+#Spe {
+    height: 400px;
+    width: 400px;
+}
+
+#BB {
+    text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+}
